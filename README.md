@@ -1,1 +1,3 @@
-# web-dev-journey
+# Web Development Journey
+
+### Expanding Cards
