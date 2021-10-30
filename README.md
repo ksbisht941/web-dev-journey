@@ -14,6 +14,7 @@
 | 08  | [Form Wave Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/form-wave-animation)                                |
 | 09  | [Sound Board](https://github.com/ksbisht941/web-dev-journey/tree/main/sound-board)                                |
 | 10  | [Dad Jokes](https://github.com/ksbisht941/web-dev-journey/tree/main/dad-jokes)                                |
+| 11  | [Event Keycodes](https://github.com/ksbisht941/web-dev-journey/tree/main/event-keycodes)                                |
 
 ### [20 Pure Vanilla JS Projects](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
