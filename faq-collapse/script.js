@@ -5,7 +5,7 @@ const faqToggle = document.querySelectorAll(".faq-toggle");
 faqToggle.forEach((toggle) => {
   toggle.addEventListener("click", () => {
     //   removeActive();
-    toggle.parentNode.classList.add("active");
+    toggle.parentNode.classList.toggle("active");
   });
 });
 
