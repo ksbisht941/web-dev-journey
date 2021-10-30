@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: steelblue;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 20px 40px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.container h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.container a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.btn {
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    background: lightblue;
+    padding: 15px;
+    border: 0;
+    font-family: inherit;
+    font-size: 16px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.btn:focus {
+    outline: 0;
+}
+
+.btn:active {
+    transform: scale(.98);
+    -webkit-transform: scale(.98);
+    -moz-transform: scale(.98);
+    -ms-transform: scale(.98);
+    -o-transform: scale(.98);
+}
+
+.text {
+    margin-top: 30px;
+}
+
+.form-control {
+    position: relative;
+    margin: 20px 0 40px;
+    width: 300px;
+}
+
+.form-control input {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px #fff solid;
+    display: block;
+    width: 100%;
+    padding: 15px 0;
+    font-size: 18px;
+    color: #fff;
+}
+
+.form-control input:focus,
+.form-control input:valid {
+    outline: 0;
+    border-bottom-color: lightblue;
+}
+
+.form-control label {
+    position: absolute;
+    top: 15px;
+    left: 0;
+}
+
+.form-control label span {
+    display: inline-block;
+    font-size: 18px;
+    min-width: 5px;
+    transition: .3s cubic-bezier(.68, -.55, .265, 1.55);
+    -webkit-transition: .3s cubic-bezier(.68, -.55, .265, 1.55);
+    -moz-transition: .3s cubic-bezier(.68, -.55, .265, 1.55);
+    -ms-transition: .3s cubic-bezier(.68, -.55, .265, 1.55);
+    -o-transition: .3s cubic-bezier(.68, -.55, .265, 1.55);
+}
+
+.form-control input:focus+label span,
+.form-control input:valid+label span {
+    color: lightblue;
+    transform: translateY(-30px);
+    -webkit-transform: translateY(-30px);
+    -moz-transform: translateY(-30px);
+    -ms-transform: translateY(-30px);
+    -o-transform: translateY(-30px);
+}

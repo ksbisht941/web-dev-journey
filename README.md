@@ -9,3 +9,5 @@
 | 05  | [Blurry Loading](https://github.com/ksbisht941/web-dev-journey/tree/main/blurry-loading)                                |
 | 06  | [Scroll Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/scroll-animation)                                |
 | 07  | [Split Landing Page](https://github.com/ksbisht941/web-dev-journey/tree/main/split-landing-page)                                |
+| 08  | [Form Wave Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/form-wave-animation)                                |
+
