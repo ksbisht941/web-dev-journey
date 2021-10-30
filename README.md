@@ -1,6 +1,6 @@
 # Web Development Journey
 
-### 50 Projects In 50 Days(https://www.udemy.com/course/50-projects-50-days/)
+### [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/)
 
 |  #  | Project                                                                                                                                                                                          |
 | :-: | ----------------------------------------------------------------------------------------------------------------------  |
@@ -14,7 +14,7 @@
 | 08  | [Form Wave Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/form-wave-animation)                                |
 | 08  | [Sound Board](https://github.com/ksbisht941/web-dev-journey/tree/main/sound-board)                                |
 
-### 20 Pure Vanilla JS Projects(https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+### [20 Pure Vanilla JS Projects](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
 |  #  | Project                                                                                                                                                                                          |
 | :-: | ----------------------------------------------------------------------------------------------------------------------  |
