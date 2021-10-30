@@ -12,7 +12,8 @@
 | 06  | [Scroll Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/scroll-animation)                                |
 | 07  | [Split Landing Page](https://github.com/ksbisht941/web-dev-journey/tree/main/split-landing-page)                                |
 | 08  | [Form Wave Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/form-wave-animation)                                |
-| 08  | [Sound Board](https://github.com/ksbisht941/web-dev-journey/tree/main/sound-board)                                |
+| 09  | [Sound Board](https://github.com/ksbisht941/web-dev-journey/tree/main/sound-board)                                |
+| 10  | [Dad Jokes](https://github.com/ksbisht941/web-dev-journey/tree/main/dad-jokes)                                |
 
 ### [20 Pure Vanilla JS Projects](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
