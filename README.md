@@ -9,12 +9,13 @@
 | 03  | [Rotating Navigation Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/rotating-navigation)            |
 | 04  | [Hidden Search Widget](https://github.com/ksbisht941/web-dev-journey/tree/main/hidden-search-widget)                    |
 | 05  | [Blurry Loading](https://github.com/ksbisht941/web-dev-journey/tree/main/blurry-loading)                                |
-| 06  | [Scroll Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/scroll-animation)                                |
-| 07  | [Split Landing Page](https://github.com/ksbisht941/web-dev-journey/tree/main/split-landing-page)                                |
-| 08  | [Form Wave Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/form-wave-animation)                                |
-| 09  | [Sound Board](https://github.com/ksbisht941/web-dev-journey/tree/main/sound-board)                                |
-| 10  | [Dad Jokes](https://github.com/ksbisht941/web-dev-journey/tree/main/dad-jokes)                                |
+| 06  | [Scroll Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/scroll-animation)                            |
+| 07  | [Split Landing Page](https://github.com/ksbisht941/web-dev-journey/tree/main/split-landing-page)                        |
+| 08  | [Form Wave Animation](https://github.com/ksbisht941/web-dev-journey/tree/main/form-wave-animation)                      |
+| 09  | [Sound Board](https://github.com/ksbisht941/web-dev-journey/tree/main/sound-board)                                      |
+| 10  | [Dad Jokes](https://github.com/ksbisht941/web-dev-journey/tree/main/dad-jokes)                                          |
 | 11  | [Event Keycodes](https://github.com/ksbisht941/web-dev-journey/tree/main/event-keycodes)                                |
+| 12  | [FAQ Collapse](https://github.com/ksbisht941/web-dev-journey/tree/main/faq-collapse)                                    |
 
 ### [20 Pure Vanilla JS Projects](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
