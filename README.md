@@ -22,3 +22,4 @@
 |  #  | Project                                                                                                                                                                                          |
 | :-: | ----------------------------------------------------------------------------------------------------------------------  |
 | 01  | [Form Validator](https://github.com/ksbisht941/web-dev-journey/tree/main/form-validator)                              |
+| 02  | [Music Player](https://github.com/ksbisht941/web-dev-journey/tree/main/music-player)                              |
