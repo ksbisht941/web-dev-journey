@@ -17,6 +17,7 @@
 | 11  | [Event Keycodes](https://github.com/ksbisht941/web-dev-journey/tree/main/event-keycodes)                                |
 | 12  | [FAQ Collapse](https://github.com/ksbisht941/web-dev-journey/tree/main/faq-collapse)                                    |
 | 13  | [Testimonial Box](https://github.com/ksbisht941/web-dev-journey/tree/main/testimonial-box)                              |
+| 14  | [Sticky Navbar](https://github.com/ksbisht941/web-dev-journey/tree/main/sticky-navbar)                                  |
 
 ### [20 Pure Vanilla JS Projects](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 

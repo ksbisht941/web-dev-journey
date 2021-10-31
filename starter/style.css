@@ -3,6 +3,7 @@
 :root {
     --background-color: #fff;
     --font-family: 'Roboto', sans-sarif;
+    --font-color: #222;
 }
 
 * {
@@ -12,6 +13,7 @@
 body {
     background-color: var(--background-color);
     font-family: var(--font-family);
+    color: var(--font-color);
     display: flex;
     justify-content: center;
     align-items: center;
