@@ -16,10 +16,11 @@
 | 10  | [Dad Jokes](https://github.com/ksbisht941/web-dev-journey/tree/main/dad-jokes)                                          |
 | 11  | [Event Keycodes](https://github.com/ksbisht941/web-dev-journey/tree/main/event-keycodes)                                |
 | 12  | [FAQ Collapse](https://github.com/ksbisht941/web-dev-journey/tree/main/faq-collapse)                                    |
+| 13  | [Testimonial Box](https://github.com/ksbisht941/web-dev-journey/tree/main/testimonial-box)                              |
 
 ### [20 Pure Vanilla JS Projects](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
 |  #  | Project                                                                                                                                                                                          |
 | :-: | ----------------------------------------------------------------------------------------------------------------------  |
-| 01  | [Form Validator](https://github.com/ksbisht941/web-dev-journey/tree/main/form-validator)                              |
-| 02  | [Music Player](https://github.com/ksbisht941/web-dev-journey/tree/main/music-player)                              |
+| 01  | [Form Validator](https://github.com/ksbisht941/web-dev-journey/tree/main/form-validator)                                |
+| 02  | [Music Player](https://github.com/ksbisht941/web-dev-journey/tree/main/music-player)                                    |
