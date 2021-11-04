@@ -20,7 +20,8 @@
 | 14  | [Sticky Navbar](https://github.com/ksbisht941/web-dev-journey/tree/main/sticky-navbar)                                  |
 | 15  | [Double Verticle Slider](https://github.com/ksbisht941/web-dev-journey/tree/main/double-verticle-slider)                |
 | 16  | [Movie App](https://github.com/ksbisht941/web-dev-journey/tree/main/movie-app)                                          |
-| 16  | [Animated Countdown](https://github.com/ksbisht941/web-dev-journey/tree/main/animated-countdown)                                          |
+| 17  | [Animated Countdown](https://github.com/ksbisht941/web-dev-journey/tree/main/animated-countdown)                        |
+| 18  | [Random Choice Picker](https://github.com/ksbisht941/web-dev-journey/tree/main/random-choice-picker)                        |
 
 ### [20 Pure Vanilla JS Projects](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
@@ -28,3 +29,4 @@
 | :-: | ----------------------------------------------------------------------------------------------------------------------  |
 | 01  | [Form Validator](https://github.com/ksbisht941/web-dev-journey/tree/main/form-validator)                                |
 | 02  | [Music Player](https://github.com/ksbisht941/web-dev-journey/tree/main/music-player)                                    |
+| 02  | [Movie Seat Booking](https://github.com/ksbisht941/web-dev-journey/tree/main/movie-seat-booking)                        |

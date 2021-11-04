@@ -67,4 +67,4 @@ form.addEventListener('submit', (e) => {
     } else {
         window.location.reload()
     }
-})
+});
